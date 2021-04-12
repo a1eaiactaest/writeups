@@ -15,7 +15,7 @@ We don't get much besides football player. Let's try searching on specific site.
 geno bridgewater site:linkedin.com
 ```
 
-First result we got is [geno ikonomov's](https://www.linkedin.com/in/geno-ikonomov/) linkedin site. 
+First result we are presented with is [geno ikonomov's](https://www.linkedin.com/in/geno-ikonomov/) linkedin site. 
 Goal was to find the last name so the flag is:
 
 ```
