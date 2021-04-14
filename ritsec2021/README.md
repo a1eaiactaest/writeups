@@ -9,49 +9,51 @@
 ## Index
 
 - rev/bin
-  - snek 100
-  - Fleshwound 200
-  - Baby Graph 231
-  - Memedrive 275
-  - Baby WASM 485
-  - SamuraiInfection 500
-  - Teen WASM 500
-  - Un-machined Aerial System 500
+  - snek `100`
+  - Fleshwound `200`
+  - Baby Graph `231`
+  - Memedrive `275`
+  - Baby WASM `485`
+  - SamuraiInfection `500`
+  - Teen WASM `500`
+  - Un-machined Aerial System `500`
 - crypto
-  - What an Enigma? 100
-  - lorem ipsum 150
-  - RITSEC Hash
-  - Streams and Rivers
-  - Lost in Runs
-  - Feedback
-  - Throw it in REverse
+  - What an Enigma? `100`
+  - lorem ipsum `150`
+  - RITSEC Hash `250`
+  - Streams and Rivers `399`
+  - Lost in Runs `400`
+  - Feedback `500`
+  - Throw it in REverse `500`
 - forensics
-  - 1597
-  - BIRDTHIEF Series
-  - Inception Series
-  - PleaseClickAlltheThings Series
-  - IFTPP
+  - 1597 `100`
+  - BIRDTHIEF Series `Total: 1150`  
+  - Inception Series `Total: 925`
+  - PleaseClickAlltheThings Series `Total: 700`
+  - 1597 `100`
+  - Blob `200`
+  - Parcel `200`
+  - IFTPP `500`
 - misc
-  - Answers
-  - [Revision](misc/revision.md)
-  - Corruption
+  - Answers `100`
+  - [Revision](misc/revision.md) `200`
+  - Corruption `500`
 - stego
-  - Inception parts 4/5
-  - BIRDTHIEF: Number Station
-  - The Lost Photo of Freg
-  - In Scope
+  - The Lost Photo of Freg `350`
+  - In Scope `382`
 - intel/osint
-  - [Finding Geno](osint/finding-geno.md)
-  - [Data Breach](osint/data-breach.md)
-  - [Music Signs](osint/music-signs.md)
-  - #OSINTChallenge
-  - APT Interference
-  - Bad Traffic
+  - [Finding Geno](osint/finding-geno.md) `50`
+  - [Data Breach](osint/data-breach.md) `175`
+  - [Music Signs](osint/music-signs.md) `225`
+  - [#OSINTChallenge](osint/osintchallenge.md) `250`
+  - [APT Interference](osint/aptinterference.md) `300`
+  - Bad Traffic `350`
 - web
-  - Robots
-  - Sessions
-  - DababyWeb
-  - Revolution
+  - Robots `100`
+  - Sessions `100`
+  - DababyWeb `150`
+  - Revolution `250`
+
 
 ## Stats
 
