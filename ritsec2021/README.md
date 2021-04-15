@@ -2,6 +2,7 @@
 
 > Time: Friday, 09 Apr 2021, 18:00 CEST — Sunday, 11 Apr 2021, 18:00 CEST   
 > Format: Jeopardy    
+> [CTFtime.org](https://ctftime.org/event/1309)
 
 > Place: 66th   
 > Points: 3765   
